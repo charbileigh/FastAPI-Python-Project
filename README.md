@@ -1,4 +1,6 @@
 # FastAPI Python Project
+This is a backend FastAPI project meant for upskilling purposes. 
+
 
 ## Cloning the project 
 
